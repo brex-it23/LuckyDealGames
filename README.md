@@ -10,7 +10,7 @@ A fast five-card draw poker game featuring a Joker, strategic holds, escalating 
 
 ## 7️⃣ Lucky Seven — iPhone
 
-A fresh take on the traditional card game Sedmica. Play solo or in teams, climb the leaderboards and test yourself in the seven-stage Challenge Run.
+A fresh take on the traditional card game Sedmica. Play solo or in teams, climb the leaderboards and test yourself in the 15-step Challenge Run.
 
 **[Download Lucky Seven on the App Store](https://apps.apple.com/app/id6776707599)**
 
